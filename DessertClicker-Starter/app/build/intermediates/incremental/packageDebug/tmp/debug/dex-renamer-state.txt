@@ -1,0 +1,4 @@
+#Sat Nov 06 00:06:33 SGT 2021
+base.0=C\:\\Users\\ACER\\Desktop\\SEM5\\pengaturcaraan alih natif\\LAB\\lab3\\android-kotlin-fundamentals-starter-apps-master\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
